@@ -1,4 +1,4 @@
-const feature = () => {
+export const feature = () => {
 
   console.log('Nova feature')
 
