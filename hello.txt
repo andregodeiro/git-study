@@ -1,5 +1,6 @@
 hello world card sc-12345
 hello world branch feature/sc-28312
 hello world develop
+hello world exemplo
 
 teste de criação de release solicitada
